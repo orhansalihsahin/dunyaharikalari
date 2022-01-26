@@ -1,0 +1,46 @@
+
+p{
+    font-size: 30px;
+    color: teal;
+}
+body {
+    text-align: center;
+}
+img{
+    width: 500px;
+}
+
+body {
+    background-color: tan;
+}
+
+ol {
+    font-size: 40px;
+    color: tan;
+}
+
+h1 {
+    color: rebeccapurple;
+    font-family: fantasy;
+    font-size: 70px;
+}
+body {
+    list-style-position: inside
+}
+
+.h-red {
+    color: red;
+}
+
+.h-blue{
+    color: blue;
+}
+
+.thick{
+    font-style: italic;
+}
+
+#main-title {
+    color: red;
+    font-size: xx-large;
+}
